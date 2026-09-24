@@ -4,18 +4,18 @@
 
 I'm a **BS Information Technology graduate** with hands-on experience in **Python, Django, REST APIs, databases, web scraping, and full-stack development**.
 
-I enjoy turning real-world problems into practical software solutions and continuously improving my skills by building useful applications.
+I enjoy turning real-world problems into practical software solutions and continuously improving my skills through hands-on projects.
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🐍 Building applications with **Python & Django**
-* 🌐 Developing **REST APIs with Django REST Framework**
-* 🕷️ Currently working on **Python-based web scraping & data processing**
+* 🌐 Developing **REST APIs using Django REST Framework**
+* 🕷️ Currently working with **Python web scraping & data extraction**
 * 🗄️ Working with **PostgreSQL, SQLite & MS Access**
 * 📱 Experienced with **React Native & Expo**
-* 💻 Building full-stack web and backend applications
+* 💻 Developing full-stack web and backend applications
 * 🔧 Using **Git, GitHub & Postman** for development
 * 🎓 **BS Information Technology Graduate**
 * 🚀 Focused on building practical software solutions
@@ -24,10 +24,11 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ## 🛠️ Tech Stack
 
-### 🐍 Backend & Programming
+### 🐍 Programming & Backend Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
 
 **Python • Django • Django REST Framework • REST APIs • Backend Development**
 
@@ -52,6 +53,7 @@ I enjoy turning real-world problems into practical software solutions and contin
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 **PostgreSQL • SQLite • MS Access • Git • GitHub • Postman**
 
@@ -59,11 +61,11 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ## 🚀 Currently Working On
 
-* 🕷️ **Python Web Scraping & Data Extraction**
 * 🐍 **Python & Django Development**
+* 🕷️ **Web Scraping & Data Extraction**
 * 🌐 **REST API Development**
-* 🗄️ **Data Processing & Database Applications**
-* ⚙️ **Automation & Backend Solutions**
+* 🗄️ **Database Applications**
+* ⚙️ **Automation & Data Processing**
 * 💻 **Full Stack Development**
 
 ---
@@ -72,7 +74,7 @@ I enjoy turning real-world problems into practical software solutions and contin
 
 ### 🏥 UHS SIMU Dispatch Analytics
 
-A Django-based system for managing and analyzing dispatch operations, with role-based access and different departmental workflows.
+A Django-based system developed for managing and analyzing dispatch operations with role-based access and departmental workflows.
 
 **Tech:** Python • Django • PostgreSQL • HTML • CSS • JavaScript
 
@@ -88,7 +90,7 @@ A web-based system for managing student records, admissions, merit-related proce
 
 ### 🍋 Little Lemon Web Application
 
-A restaurant management backend application developed with Django and Django REST Framework.
+A restaurant management application developed using Django and Django REST Framework.
 
 **Tech:** Python • Django • Django REST Framework • SQL
 
@@ -99,6 +101,14 @@ A restaurant management backend application developed with Django and Django RES
 A Django-based e-learning platform developed as my Final Year Project.
 
 **Tech:** Python • Django • SQLite • PostgreSQL • HTML • CSS • JavaScript
+
+---
+
+### 🕷️ Python Web Scraping Projects
+
+Practical scraping solutions focused on extracting, cleaning, processing and structuring data from web sources.
+
+**Tech:** Python • Web Scraping • Data Processing • Automation
 
 ---
 
@@ -122,7 +132,7 @@ A Django-based e-learning platform developed as my Final Year Project.
 ## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Maham Shahid GitHub Contribution Graph" />
 </p>
 
 ---
@@ -152,19 +162,18 @@ Building Real-World Software Solutions 🚀
 ## 🎯 What I'm Interested In
 
 * Python Development
-* Django & REST Framework
+* Django & Django REST Framework
 * Backend Engineering
 * Full Stack Development
 * REST APIs
-* Web Scraping
+* Web Scraping & Automation
 * Data Processing
 * Database Development
-* Automation
 * Mobile Application Development
 
 ---
 
-I'm always interested in connecting with developers, software engineers, and people building practical technology solutions.
+I'm always interested in connecting with developers, software engineers, and people building innovative technology.
 
 ## 🌐 Connect With Me
 
@@ -188,4 +197,4 @@ I'm always interested in connecting with developers, software engineers, and peo
 
 ### ✨ Learning. Building. Improving.
 
-**Turning ideas into practical software, one project at a time. 🚀**
+**Turning ideas into practical technology, one project at a time. 🚀**
