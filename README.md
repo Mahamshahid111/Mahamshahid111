@@ -116,10 +116,12 @@ Practical scraping solutions focused on extracting, cleaning, processing and str
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahamshahid111&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahamshahid111&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahamshahid111&theme=dracula&hide_border=true" />
+</p> -->
 
 ---
 
