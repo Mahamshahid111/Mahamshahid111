@@ -88,12 +88,6 @@ A web-based system for managing student records, admissions, merit-related proce
 
 ---
 
-### 🍋 Little Lemon Web Application
-
-A restaurant management application developed using Django and Django REST Framework.
-
-**Tech:** Python • Django • Django REST Framework • SQL
-
 ---
 
 ### 🎓 Align Skills — E-Learning Platform
@@ -124,7 +118,7 @@ Practical scraping solutions focused on extracting, cleaning, processing and str
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahamshahid111&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mahamshahid111&theme=dracula&hide_border=true" />
 </p>
 
 ---
